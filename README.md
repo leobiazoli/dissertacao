@@ -8,4 +8,4 @@ Os dados utilizados nos modelos quase-experimentais foram retirados de diversas 
 
 ### Análises do Propensity Score Matching e Controle sintético
 
-As análises realizadas para os modelos PSM e controle sintético foram desenvolvidas na linguagem de programação *R*, as quais encontram-se disponíveis neste *Github*.
+As análises realizadas para os modelos PSM e controle sintético foram desenvolvidas na linguagem de programação *R*, as quais encontram-se disponíveis em [psm](https://github.com/leobiazoli/dissertacao/tree/main/psm) e [synthetic control]().
