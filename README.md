@@ -16,5 +16,6 @@ As análises realizadas para os modelos PSM e controle sintético foram desenvol
 
 
 ```r
-1+1
+a = 1+1
+print(a)
 ```
