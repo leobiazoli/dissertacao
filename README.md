@@ -8,7 +8,7 @@ Os dados utilizados nos modelos quase-experimentais foram retirados de diversas 
 
 ### Análise descritiva
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/leobiazoli/dissertacao/blob/main/data/pibreal.png)
 
 ### Análises do Propensity Score Matching e Controle sintético
 
