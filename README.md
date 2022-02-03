@@ -4,7 +4,7 @@
 
 ### Base de dados
 
-Os dados utilizados nos modelos quase-experimentais foram retirados de diversas fontes, tais como IBGE, RAIS/MTE e Censo 2010. O pré-processamento dos dados está disponível em `data` [https://github.com/leobiazoli/dissertacao/tree/main/data].
+Os dados utilizados nos modelos quase-experimentais foram retirados de diversas fontes, tais como IBGE, RAIS/MTE e Censo 2010. O pré-processamento dos dados está disponível em [data] (https://github.com/leobiazoli/dissertacao/tree/main/data).
 
 ### Análises do Propensity Score Matching e Controle sintético
 
