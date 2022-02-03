@@ -14,8 +14,3 @@ Os dados utilizados nos modelos quase-experimentais foram retirados de diversas 
 
 As análises realizadas para os modelos PSM e controle sintético foram desenvolvidas na linguagem de programação *R*, as quais encontram-se disponíveis em [psm](https://github.com/leobiazoli/dissertacao/tree/main/psm) e [synthetic control](https://github.com/leobiazoli/dissertacao/tree/main/synthetic_control). Estas análises incluem os algoritmos com e sem o uso da análise de agrupamento.
 
-
-```r
-a = 1+1
-print(a)
-```
